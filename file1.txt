@@ -1,2 +1,6 @@
 This is file1
+<<<<<<< HEAD
 This modification is done in branch
+=======
+This is done in hotfix_branch
+>>>>>>> hotfix_branch
