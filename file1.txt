@@ -8,3 +8,4 @@ This is done in hotfix_branch
 
 There are new changes into this file from future_branch1
 
+Now there are further more changes to this file from hotfix_branch
