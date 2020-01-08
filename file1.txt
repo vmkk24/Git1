@@ -4,3 +4,7 @@ This modification is done in branch
 =======
 This is done in hotfix_branch
 >>>>>>> hotfix_branch
+
+
+There are new changes into this file from future_branch1
+
