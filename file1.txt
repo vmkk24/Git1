@@ -4,3 +4,4 @@ this is good
 This editation is from future_branch1
 This is after configuration
 
+This editation is from hotfix_branch
