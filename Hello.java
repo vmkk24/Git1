@@ -1,8 +1,8 @@
 public class Hello {
  public static void main(String args[]){
-    system.out.println("Hello World!");
-    system.out.println("Hi");
-    system.out.println("Webhooks");
-    system.out.println("New Update");
+    System.out.println("Hello World!");
+    System.out.println("Hi");
+    System.out.println("Webhooks");
+    System.out.println("New Update");
  }
 }
